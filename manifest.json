@@ -1,0 +1,15 @@
+{
+  "name": "AV ARTS Calendar 2026",
+  "short_name": "AV ARTS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "av.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
